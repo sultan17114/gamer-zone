@@ -110,6 +110,7 @@ nav li a {
     font-size: 48px;
     font-weight: 600;
     text-transform: uppercase;
+    margin-right: 70px;
 }
 
 .h1 {
@@ -121,6 +122,7 @@ nav li a {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    margin-right: 70px;
 
 }
 
