@@ -16,6 +16,7 @@ header {
 .icon-gamer {
     width: 86.041px;
     height: 40px;
+    
 }
 
 .gamer {
@@ -147,9 +148,9 @@ nav li a {
     padding: 21px 40px;
     align-items: flex-start;
     font-size: 20px;
-    gap: 10px;
     border-radius: 48px;
     background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+    
 }
 
 .rogue {
@@ -159,7 +160,6 @@ nav li a {
     display: inline-flex;
     padding: 21px 40px;
     align-items: flex-start;
-    gap: 10px;
     border-radius: 48px;
     background: #4EC5F7;
 
@@ -183,7 +183,7 @@ nav li a {
     color: #534C64;
     text-align: right;
     font-family: Work Sans;
-    font-size: 18px;
+    font-size: 17px;
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
